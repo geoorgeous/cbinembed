@@ -1,5 +1,5 @@
-#ifndef GENERATOR_H
-#define GENERATOR_H
+#ifndef CBINEM_H
+#define CBINEM_H
 
 #include <stddef.h>
 #include <stdint.h>
