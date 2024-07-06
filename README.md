@@ -8,7 +8,7 @@ To generate the C source for a given binary file simply call `cbinem_generate_fr
 // Specify the number of hex-bytes we want printed per line in the final output.
 size_t bytes_per_line = 64;
 
-// Enable prettier formatting for easier humna-readability of hex data.
+// Enable prettier formatting for easier humnan-readability of hex data.
 int b_pretty_formatting = 1;
 
 cbinem_generate_from_file("somedata.bin", bytes_per_line, b_pretty_formatting);
